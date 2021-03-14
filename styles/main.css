@@ -305,6 +305,7 @@ div.flexItemsBoard {
   justify-content: space-between;
   align-content: space-evenly;
   align-items: baseline;
+  margin-bottom: 50px;
 }
 
 .flexItemChild {
